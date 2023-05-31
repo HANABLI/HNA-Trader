@@ -1,0 +1,6 @@
+*.~vsdx
+.vs/
+bin/
+obj/
+App.config
+
